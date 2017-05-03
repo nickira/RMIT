@@ -17,5 +17,6 @@ public class GameMaking {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+    public void driving(){
+}
 }
